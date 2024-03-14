@@ -1,0 +1,18 @@
+{
+  "info": [
+    {
+      "name": "Charles",
+      "lastname": "Chalrs",
+      "position": "PM",
+      "location": "Lagos",
+      "id": 1
+    },
+    {
+      "name": "Olu",
+      "lastname": "Mide",
+      "position": "Dev",
+      "location": "Nigeria",
+      "id": 2
+    }
+  ]
+}
